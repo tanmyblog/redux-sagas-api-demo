@@ -1,0 +1,13 @@
+.main {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.container {
+  margin-top: 10px;
+}
+
+.btn {margin-bottom: 10px;}
+
+.label-warning { color: red}
+.label-default {color: green}
